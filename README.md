@@ -1,14 +1,9 @@
 # Sorting_Visualizer
- 
-![Sorting Visualizer](Screenshot 2024-09-28 112010.png)
+
+![Sorting Visualizer](Screenshot%202024-09-28%20112010.png)
+
 
 This web application is designed to visually demonstrate the inner workings of classic sorting algorithms using HTML, CSS, and JavaScript. It offers an interactive and educational platform to understand how different sorting techniques operate by watching them in action.
-
-## 🚀 Live Demo
-[Sorting Visualizer](#) 
-
-## 💻 Source Code
-[Sort Visualizer Code](#)
 
 ## 📌 Purpose
 
